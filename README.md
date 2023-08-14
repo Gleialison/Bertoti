@@ -8,4 +8,4 @@ Cria o software fácil de interagir com tempo útil para não haver gastos desne
 Escala e a distribuição de acesso para muitas pessoas, sendo acessado pelas mesma tendo visibilidade de maior número de pessoas.
 Última coisa e trade off e jogo de perde ganha, você acaba ganhando em um ponto e acabar perdendo em outro, para da melhor equilíbrio nesse jogo, ganha no que você pode e perder na menos importante.
 Requisitos funcionais são as ações do sistema são espresso como verbos.
-Não funcionais, qualidade adjetivo
+Não funcionais, qualidade adjetivo.
