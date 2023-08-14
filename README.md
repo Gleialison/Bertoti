@@ -9,3 +9,5 @@ Escala e a distribuição de acesso para muitas pessoas, sendo acessado pelas me
 Última coisa e trade off e jogo de perde ganha, você acaba ganhando em um ponto e acabar perdendo em outro, para da melhor equilíbrio nesse jogo, ganha no que você pode e perder na menos importante.
 Requisitos funcionais são as ações do sistema são espresso como verbos.
 Não funcionais, qualidade adjetivo.
+
+Citar 3 exemplos de Trade offs
