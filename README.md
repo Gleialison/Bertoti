@@ -24,8 +24,7 @@ Acesso ao banco de dados
 Utilização de excessivo de memoria
 Baixa velocidade de processamento
 
-Cite um exemplo de trade offs no dia a dia
-Requisitos nao funionais:
-segfurança , filtro, 
+Cite um exemplo de trade offs no dia a dia (WhatApp)
+Requisitos nao funionais: Envio de anexos, Notificacoes, registro unico de usuario
 
-Requisitos funcionais..
+Requisitos funcionais: Tecnologias envolvidas, processamento, conexao, consumo de memoria
