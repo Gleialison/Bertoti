@@ -34,20 +34,20 @@ Exercicio 4
 Encontre um erro e um acerto de cada heuristica e coloque no seu readme.MD do Github
 
 #1 Visibilidade do Status do Sistema
-Acerto:
-Erro: 
+Acerto: Entrada do windons
+Erro: whatsapp (status)
 
 #2 Correspondencia entre o sistema e o mundo real
-Acerto:
-Erro:
+Acerto: Metafora do windons (janela, arquivo, lixeira)
+Erro: SQL exeception para user 
 
 #3 Controle e liberdade do usuario
-Acerto:
-Erro:
+Acerto: Word (undo / redo)
+Erro: 
 
 #4: Consistência e padrões
-Acerto:
-Erro:
+Acerto: WhatsApp
+Erro: Siga
 
 #5: Prevenção de erros
 Acerto:
@@ -58,11 +58,11 @@ Acerto:
 Erro:
 
 #7: Flexibilidade e eficiência de uso
-Acerto:
+Acerto: Atalhos
 Erro:
 
 #8: Design estético e minimalista
-Acerto:
+Acerto: 
 Erro:
 
 #9: Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
@@ -71,7 +71,7 @@ Erro:
 
 #10: Ajuda e documentação
 Acerto:
-Erro:
+Erro: 
 
 
 
