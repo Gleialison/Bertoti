@@ -28,3 +28,78 @@ Cite um exemplo de trade offs no dia a dia (WhatApp)
 Requisitos nao funionais: Envio de anexos, Notificacoes, registro unico de usuario
 
 Requisitos funcionais: Tecnologias envolvidas, processamento, conexao, consumo de memoria
+
+18/08/2023
+Exercicio 4
+Encontre um erro e um acerto de cada heuristica e coloque no seu readme.MD do Github
+
+#1 Visibilidade do Status do Sistema
+Acerto:
+Erro: 
+
+#2 Correspondencia entre o sistema e o mundo real
+Acerto:
+Erro:
+
+#3 Controle e liberdade do usuario
+Acerto:
+Erro:
+
+#4: Consistência e padrões
+Acerto:
+Erro:
+
+#5: Prevenção de erros
+Acerto:
+Erro:
+
+#6: Reconhecimento em vez de lembrança
+Acerto:
+Erro:
+
+#7: Flexibilidade e eficiência de uso
+Acerto:
+Erro:
+
+#8: Design estético e minimalista
+Acerto:
+Erro:
+
+#9: Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros
+Acerto:
+Erro:
+
+#10: Ajuda e documentação
+Acerto:
+Erro:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
