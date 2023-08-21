@@ -10,7 +10,7 @@ Requisitos funcionais são as ações do sistema são espresso como verbos.
 Não funcionais, qualidade adjetivo.
 
 14/08/23
-Exemplos de Trade Offs:
+Exemplos de Trade Offs (requisitos nao funcionais)
 Citar as vantagens e desvantagens na utilizalçao da linguagem Python
 Vantagens:
 Linguagem de facil leitura, escrita, aprendizagem
@@ -30,7 +30,6 @@ Requisitos nao funionais: Envio de anexos, Notificacoes, registro unico de usuar
 Requisitos funcionais: Tecnologias envolvidas, processamento, conexao, consumo de memoria
 
 18/08/2023
-Exercicio 4
 Encontre um erro e um acerto de cada heuristica e coloque no seu readme.MD do Github
 
 #1 Visibilidade do Status do Sistema
