@@ -1,5 +1,5 @@
 # Bertoti Pasta Engenharia SW
-11/08/23
+11/08/23(Exercicio 1)
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 Engenharia de software se divide em três pilares : tempo, escala e o conflito de escolha.
@@ -9,7 +9,7 @@ Escala e a distribuição de acesso para muitas pessoas, sendo acessado pelas me
 Requisitos funcionais são as ações do sistema são espresso como verbos.
 Não funcionais, qualidade adjetivo.
 
-14/08/23
+14/08/23 (Exercicio 2)
 Exemplos de Trade Offs (requisitos nao funcionais)
 Citar as vantagens e desvantagens na utilizalçao da linguagem Python
 Vantagens:
@@ -29,7 +29,7 @@ Requisitos nao funionais: Envio de anexos, Notificacoes, registro unico de usuar
 
 Requisitos funcionais: Tecnologias envolvidas, processamento, conexao, consumo de memoria
 
-18/08/2023
+18/08/2023 (Exercicio 3)
 Encontre um erro e um acerto de cada heuristica e coloque no seu readme.MD do Github
 
 #1 Visibilidade do Status do Sistema
@@ -72,9 +72,36 @@ Erro:
 Acerto:
 Erro: 
 
+25/08/23 (Exercicio 4)
+Slide 23
+Salvo em Power Point
 
 
+Nome da classe: Substantivo com a primeira letra maiúscula, exemplo (Sala, Aula, Aluno).
+Oque a classe faz “verbo” exemplo (buscar, procurar, etc.)
+"String é uma classe"
 
+Atributo: É oque a classe conhece, substantivo com a primeira letra minúscula.
+(-) Metodo privado
+(+) Metodo publico (public)
+Acesso, nome, parametro e o retorno
+
+public list <Aluno> buscar Aluno Nome(String nome) {
+
+	list <Aluno> encontrado = new Linha List <Aluno> ( );
+	
+	for(Aluno aluno: lista Chamada) {
+
+	if(aluno.get Nome( )equals(nome))	
+
+                	encontrados.add (aluno);
+}
+
+return encontrados;
+
+}
+
+28/08/23 (Exercicio 5)
 
 
 
