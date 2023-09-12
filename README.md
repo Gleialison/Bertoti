@@ -1,3 +1,4 @@
+COMENTARIOS SOBRE O LIVRO
 # Bertoti Pasta Engenharia SW
 11/08/23(Exercicio 1) (Livro Engenharia Google)
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
@@ -9,6 +10,7 @@ Escala e a distribuição de acesso para muitas pessoas, sendo acessado pelas me
 Requisitos funcionais são as ações do sistema são espresso como verbos.
 Não funcionais, qualidade adjetivo.
 
+TRADE-OFFS
 14/08/23 (Exercicio 2) (Trade OFF)
 Exemplos de Trade Offs (requisitos nao funcionais)
 Citar as vantagens e desvantagens na utilizalçao da linguagem Python
@@ -29,6 +31,7 @@ Requisitos nao funionais: Envio de anexos, Notificacoes, registro unico de usuar
 
 Requisitos funcionais: Tecnologias envolvidas, processamento, conexao, consumo de memoria
 
+REQUISITOS FUNIONAIS
 18/08/2023 (Exercicio 3) (Requisitos nao funcionais)
 Encontre um erro e um acerto de cada heuristica e coloque no seu readme.MD do Github
 
@@ -72,6 +75,7 @@ Erro:
 Acerto:
 Erro: 
 
+DIAGRAMA DE CASO DE USO
 25/08/23 (Exercicio 4) (Caso de Uso UML)
 Slide 23
 Salvo em Power Point
@@ -100,7 +104,7 @@ public list <Aluno> buscar Aluno Nome(String nome) {
 return encontrados;
 
 }
-
+DIAGRAMA CLASSES UML
 28/08/23 (Exercicio 5) (Classes UML)
 
 
