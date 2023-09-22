@@ -118,12 +118,29 @@ DIAGRAMA CLASSES UML
 EXERCICO-7
 TESTE - FUNCÃO
 22/09/23
+Função (int a)
+	b = a + // deveria ser a-1
+	c = b / 30000
+	return c 
 
-int Funcao(int a) {
-    b = a + 1;  // Corrigido de a + a-1 para a + 1
-    c = b / 30000;
-    return c;
-}
+- Considere apenas inteiro de - 32567 a  + 32568 
+- Quais entradas mostram defeitos ?
+	R:  -29999, 29999, 30000, -30000 
+
+- É possível testar tudo ?
+	R: Não
+
+- Oque fazer? R: Usar técnica de testes Técnica de teste : Analise de valor limite  Exemplo: Como a divisão é por 30000, em teste os limites do valor
+ 
+Técnica de testes
+Exemplo: Classes de equivalência
+(0 a 15 anos,  Não efetuo o contrato)
+(16 a 17 anos, Aprendiz)
+(18 a 100 anos, CLT)
+
+NOTA:
+Lembrando que o JUnit não resolve “Testar” software. Ele só automatiza.
+Para testar você precisa de técnica de teste.
 
 
 
