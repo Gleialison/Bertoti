@@ -1,3 +1,4 @@
+EXERCICIO-1
 COMENTARIOS SOBRE O LIVRO
 # Bertoti Pasta Engenharia SW
 11/08/23(Exercicio 1) (Livro Engenharia Google)
@@ -10,6 +11,7 @@ Escala e a distribuição de acesso para muitas pessoas, sendo acessado pelas me
 Requisitos funcionais são as ações do sistema são espresso como verbos.
 Não funcionais, qualidade adjetivo.
 
+EXERCICIO-2
 TRADE-OFFS
 14/08/23 (Exercicio 2) (Trade OFF)
 Exemplos de Trade Offs (requisitos nao funcionais)
@@ -20,6 +22,7 @@ Linguagem interpretada
 Melhor produtividade
 Declaração de variaveis
 
+EXERCICIO-3
 Desvantagens:
 Erro de execução
 Acesso ao banco de dados
@@ -31,6 +34,7 @@ Requisitos nao funionais: Envio de anexos, Notificacoes, registro unico de usuar
 
 Requisitos funcionais: Tecnologias envolvidas, processamento, conexao, consumo de memoria
 
+EXERCICO-4
 REQUISITOS FUNIONAIS
 18/08/2023 (Exercicio 3) (Requisitos nao funcionais)
 Encontre um erro e um acerto de cada heuristica e coloque no seu readme.MD do Github
@@ -75,6 +79,7 @@ Erro:
 Acerto:
 Erro: 
 
+EXERCICIO-5
 DIAGRAMA DE CASO DE USO
 25/08/23 (Exercicio 4) (Caso de Uso UML)
 Slide 23
@@ -104,10 +109,21 @@ public list <Aluno> buscar Aluno Nome(String nome) {
 return encontrados;
 
 }
+
+EXERCICO-6
 DIAGRAMA CLASSES UML
 28/08/23 (Exercicio 5) (Classes UML)
 
 
+EXERCICO-7
+TESTE - FUNCÃO
+22/09/23
+
+int Funcao(int a) {
+    b = a + 1;  // Corrigido de a + a-1 para a + 1
+    c = b / 30000;
+    return c;
+}
 
 
 
