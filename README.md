@@ -1,7 +1,6 @@
 EXERCICIO-1
-COMENTARIOS SOBRE O LIVRO
-# Bertoti Pasta Engenharia SW
-11/08/23(Exercicio 1) (Livro Engenharia Google)
+COMENTARIOS SOBRE O LIVRO SOFTWARE ENGINEERING AT GOOGLE
+11/08/23
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 Engenharia de software se divide em três pilares : tempo, escala e o conflito de escolha.
@@ -12,8 +11,8 @@ Requisitos funcionais são as ações do sistema são espresso como verbos.
 Não funcionais, qualidade adjetivo.
 
 EXERCICIO-2
-TRADE-OFFS
-14/08/23 (Exercicio 2) (Trade OFF)
+EXEMPLOS TRADE-OFFS
+14/08/23
 Exemplos de Trade Offs (requisitos nao funcionais)
 Citar as vantagens e desvantagens na utilizalçao da linguagem Python
 Vantagens:
@@ -22,7 +21,6 @@ Linguagem interpretada
 Melhor produtividade
 Declaração de variaveis
 
-EXERCICIO-3
 Desvantagens:
 Erro de execução
 Acesso ao banco de dados
@@ -34,9 +32,9 @@ Requisitos nao funionais: Envio de anexos, Notificacoes, registro unico de usuar
 
 Requisitos funcionais: Tecnologias envolvidas, processamento, conexao, consumo de memoria
 
-EXERCICO-4
-REQUISITOS FUNIONAIS
-18/08/2023 (Exercicio 3) (Requisitos nao funcionais)
+EXERCICIO-3
+REQUISITOS NÃO FUNIONAIS DE USABILIDADE 
+18/08/2023
 Encontre um erro e um acerto de cada heuristica e coloque no seu readme.MD do Github
 
 #1 Visibilidade do Status do Sistema
@@ -79,7 +77,7 @@ Erro:
 Acerto:
 Erro: 
 
-EXERCICIO-5
+EXERCICIO-4
 DIAGRAMA DE CASO DE USO
 25/08/23 (Exercicio 4) (Caso de Uso UML)
 Slide 23
@@ -110,13 +108,20 @@ return encontrados;
 
 }
 
-EXERCICO-6
+EXERCICO-5
 DIAGRAMA CLASSES UML
-28/08/23 (Exercicio 5) (Classes UML)
+28/08/23
+POSTADO NO GIT
 
 
-EXERCICO-7
-TESTE - FUNCÃO
+EXERCICO-6
+CODIGO JAVA - (ESPELHANDO AS CLASSES UML)
+01/09/23
+POSTADO NO GIT
+
+
+EXERCICIO-7
+TESTES AUTOMATIZADOS COM TECNICA DE TESTES
 22/09/23
 Função (int a)
 	b = a + // deveria ser a-1
@@ -125,12 +130,13 @@ Função (int a)
 
 - Considere apenas inteiro de - 32567 a  + 32568 
 - Quais entradas mostram defeitos ?
-	R:  -29999, 29999, 30000, -30000 
+- R:  -29999, 29999, 30000, -30000 
 
 - É possível testar tudo ?
-	R: Não
+- R: Não
 
-- Oque fazer? R: Usar técnica de testes Técnica de teste : Analise de valor limite  Exemplo: Como a divisão é por 30000, em teste os limites do valor
+- Oque fazer?
+- R: Usar técnica de testes Técnica de teste : Analise de valor limite  Exemplo: Como a divisão é por 30000, em teste os limites do valor
  
 Técnica de testes
 Exemplo: Classes de equivalência
@@ -141,6 +147,8 @@ Exemplo: Classes de equivalência
 NOTA:
 Lembrando que o JUnit não resolve “Testar” software. Ele só automatiza.
 Para testar você precisa de técnica de teste.
+
+
 
 
 
